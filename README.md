@@ -20,8 +20,6 @@ Visualizations.
 
 Simple Random Sampling.
 
-Stratified Random Sampling.
-
 Hypothesis Testing using Z test
 
 ### Setup/Installation Requirements
