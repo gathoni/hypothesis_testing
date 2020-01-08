@@ -5,9 +5,9 @@
 #### IP WEEK 3 DATA SCIENCE CORE, December, 2019
 #### By: Lydia Gathoni
 ### Description
-Investigating the electric (bluecars) car usage in Paris during weekdays.
+Investigating the electric (bluecars) car usage in Paris during weekends.
 
-#### Test a Hypothesis: Whether there is difference in the means of blue cars taken in two different postal codes selected randomly.
+#### Test a Hypothesis: Whether there is difference in blue cars taken on saturday and Sunday
 
 ### Experimental Design
 Exploratory Data Analysis.
